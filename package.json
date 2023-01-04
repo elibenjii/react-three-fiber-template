@@ -1,7 +1,12 @@
 {
   "name": "react-three-fiber",
   "version": "0.1.0",
-  "private": true,
+   "keywords": [
+    "react",
+    "three",
+    "fiber",
+    "drei"
+  ],
   "dependencies": {
     "@react-three/cannon": "^6.5.0",
     "@react-three/drei": "^9.50.5",
